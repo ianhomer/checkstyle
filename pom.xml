@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.purplepip</groupId>
   <artifactId>checkstyle</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
   <name>PurplePip Checkstyle</name>
 
   <properties>
@@ -22,7 +22,7 @@
     <connection>scm:git:https://github.com/ianhomer/checkstyle.git</connection>
     <developerConnection>scm:git:https://github.com/ianhomer/checkstyle.git</developerConnection>
     <url>https://github.com/ianhomer/checkstyle.git</url>
-    <tag>1.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
